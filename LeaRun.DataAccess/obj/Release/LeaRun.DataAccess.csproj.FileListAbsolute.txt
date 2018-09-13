@@ -1,0 +1,62 @@
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\EntityFramework.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\log4net.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\MySql.Data.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\System.Data.SQLite.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\LeaRun.Cache.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Release\LeaRun.Cache.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\EntityFramework.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\LeaRun.Cache.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\log4net.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\MySql.Data.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\Oracle.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\System.Data.SQLite.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Release\LeaRun.Cache.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\EntityFramework.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\LeaRun.Cache.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\log4net.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\MySql.Data.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\Oracle.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\System.Data.SQLite.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Release\LeaRun.Cache.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\EntityFramework.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.Cache.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\log4net.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\MySql.Data.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\Oracle.DataAccess.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\System.Data.SQLite.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.Cache.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csprojAssemblyReference.cache
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csproj.CoreCompileInputs.cache
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csproj.CopyComplete
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.pdb
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.DataAccess.pdb
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\EntityFramework.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.Cache.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\log4net.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\MySql.Data.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\Oracle.DataAccess.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\System.Data.SQLite.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Release\LeaRun.Cache.pdb
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Release\LeaRun.DataAccess.pdb

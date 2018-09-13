@@ -1,0 +1,590 @@
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\VMPlatform\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csprojResolveAssemblyReference.cache
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161117\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161118\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\南京视讯平台\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\南京视讯平台\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\南京视讯平台\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\南京视讯平台\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\南京视讯平台\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180417\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+F:\work\大平台\2010版\2016新架构\二期\视讯平台vss源码\视讯平台vss源码20180420\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\bin\Debug\LeaRun.Resource.pdb
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\bin\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.resources
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-CN.resources
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.CommonResource.zh-TW.resources
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.csproj.GenerateResource.Cache
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-CN\LeaRun.Resource.resources.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\zh-TW\LeaRun.Resource.resources.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.Resource\obj\Debug\LeaRun.Resource.pdb

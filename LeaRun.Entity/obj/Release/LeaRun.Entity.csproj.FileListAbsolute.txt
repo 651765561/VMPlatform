@@ -1,0 +1,50 @@
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\LeaRun.Entity.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\LeaRun.Entity.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\EntityFramework.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\LeaRun.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\LeaRun.Utilities.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\log4net.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\Oracle.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\MySql.Data.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\System.Data.SQLite.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\SharpZipLib.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\Newtonsoft.Json.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\LeaRun.DataAccess.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\bin\Release\LeaRun.Utilities.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\obj\Release\LeaRun.Entity.csprojResolveAssemblyReference.cache
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\obj\Release\LeaRun.Entity.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.Entity\obj\Release\LeaRun.Entity.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\LeaRun.Entity.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\LeaRun.Entity.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\EntityFramework.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\LeaRun.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\LeaRun.Utilities.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\Newtonsoft.Json.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\log4net.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\Oracle.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\MySql.Data.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\System.Data.SQLite.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\SharpZipLib.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\LeaRun.DataAccess.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\LeaRun.Utilities.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\bin\Release\Newtonsoft.Json.xml
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\obj\Release\LeaRun.Entity.csprojResolveAssemblyReference.cache
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\obj\Release\LeaRun.Entity.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.Entity\obj\Release\LeaRun.Entity.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\LeaRun.Entity.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\LeaRun.Entity.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\EntityFramework.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\LeaRun.Utilities.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\Newtonsoft.Json.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\log4net.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\Oracle.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\MySql.Data.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\System.Data.SQLite.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\SharpZipLib.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\LeaRun.Utilities.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\bin\Release\Newtonsoft.Json.xml
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\obj\Release\LeaRun.Entity.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\obj\Release\LeaRun.Entity.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.Entity\obj\Release\LeaRun.Entity.pdb

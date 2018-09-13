@@ -1,0 +1,572 @@
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\工作项目\LeaRun.快速信息化系统开发框架V4.1\LeaRun.快速信息化系统开发框架V4.1\project\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\软件开发项目\20150203\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\BaiduYunDownload\快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\项目\快速开发框架\A010 快速信息化系统开发框架V4.1\code\LeaRun.Framework V4.1\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\test\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\BestUnion\BestUnion\PTNEW\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\BestUnion\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+C:\Users\Pig\Desktop\Work\CODEBak\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+C:\Users\Administrator\Desktop\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\VMPlatform\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161206\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\PENEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161220\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161221\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20161222\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\佳盟\监管系统\20170223\视讯平台_20170223\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\BestUnion\PTNEW2010\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170312\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE_20170313-2\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20170314\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170317\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170321\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170327\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170329\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\20170406\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170410\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\project\SHJM\CODE20170413210000\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台20170417\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\0.软件测试\A00.新平台\A02.开发代码相关\CODE20170511\CODE - 小苏苏\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\Woody\开发程序\CODE_NANJING\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\项目\南京新视讯平台\Processing\警务平台\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码\移交给张毅2017-7-11\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\CODE20170720110000\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\南京视讯平台\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\南京视讯平台\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\南京视讯平台\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码\CODE\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\log4net.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+F:\work\大平台\2010版\2016新架构\视讯平台vss源码201711062\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\项目\南京新视讯平台\Processing\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\Work\严浩宇\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\项目\智访通\ReceptionSystem\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\log4net.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+D:\MyPrjoject\视讯平台vss源码new\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.DataAccess.pdb
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\EntityFramework.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\log4net.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\MySql.Data.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\System.Data.SQLite.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\bin\Debug\LeaRun.Cache.pdb
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.csprojResolveAssemblyReference.cache
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.dll
+E:\Work\张毅\视讯平台vss源码2080427\视讯平台vss源码\LeaRun.DataAccess\obj\Debug\LeaRun.DataAccess.pdb
